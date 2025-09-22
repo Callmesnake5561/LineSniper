@@ -11,15 +11,6 @@ LineSniper is a modular OSINT toolkit for phone number recon. It supports:
 ```bash
 linesniper --wizard
 
-Great questions, Brandon — here’s how to set up your LineSniper repo for clarity, protection, and community use:
-
-✅ GitHub Repo Setup for LineSniper
-🔓 Visibility: Public
-- Recommended if you want others to use, contribute, or learn from LineSniper.
-- You can still keep sensitive modules (like API keys or private dorking logic) in a separate private repo or branch.
-
-📄 README.md
-Yes — absolutely. It’s your front door. Include:
 # LineSniper 🔍
 
 LineSniper is a modular OSINT toolkit for phone number recon. It supports:
@@ -46,29 +37,13 @@ bash installer.sh
 License
 MIT — see LICENSE
 Author
-Brandon — Fort Smith, OK
+Hate138 — Sallisaw, OK
 
 ---
 
-### 📁 **.gitignore**
-Yes — to keep your repo clean and secure. Include:
 
-
-Python
-pycache/ *.pyc *.pyo *.pyd *.env venv/ .env *.log
-VS Code
-.vscode/
-LineSniper output
-linesniper_.md linesniper_.json
-
----
 
 ### 📜 **License: MIT**
-- ✅ Permissive
-- ✅ Allows commercial use, modification, distribution
-- ✅ Protects you from liability
-
-Create a `LICENSE` file with:
 
 
 MIT License
