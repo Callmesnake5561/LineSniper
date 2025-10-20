@@ -47,7 +47,7 @@ Hate138
 
 
 MIT License
-Copyright (c) 2025 Brandon
+Copyright (c) 2025 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 
