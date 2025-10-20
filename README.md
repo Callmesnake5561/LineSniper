@@ -37,7 +37,7 @@ bash installer.sh
 License
 MIT — see LICENSE
 Author
-Hate138 — Sallisaw, OK
+Hate138
 
 ---
 
